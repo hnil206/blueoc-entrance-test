@@ -1,8 +1,8 @@
-BLUEOC-TEST/
+BLUE-OC-TEST/
 │
 ├── task1/
 │   ├── index.js
-│ 
+│   └── README.md
 │
 ├── task2/
 │   ├── index.js
@@ -40,7 +40,6 @@ BLUEOC-TEST/
         ├── .gitignore
         ├── package.json
         └── README.md
-
 
 1. Run task1
    - cd task1
